@@ -1,6 +1,6 @@
 # Sprint 1 Daily Progress
 
-## Day 1 - [Date]
+## Day 1 - Nov 1
 ### What we accomplished:
 - Divya: Started dashboard layout (#11)
 - h17patel: Began transaction form (#4) 
@@ -9,7 +9,7 @@
 ### Blockers:
 - None currently
 
-## Day 2 - [Date]
+## Day 2 - Nov 2
 ### What we accomplished:
 - Divya: Completed dashboard HTML structure
 - h17patel: Built form validation logic
